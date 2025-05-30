@@ -37,7 +37,7 @@ Esses resultados indicam a necessidade de refletir sobre a personalização das 
 
 </div>
 
-## Registro das atividades
+## Registro das Atividades
 
 <div align="center">  
 
